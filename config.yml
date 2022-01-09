@@ -1,0 +1,4 @@
+x-rapidapi-host : annoyance-analysis.p.rapidapi.com
+x-rapidapi-key : 4a2ab6a************************
+content-type : application/json
+url : https://annoyance-analysis.p.rapidapi.com/v1/annoyance
